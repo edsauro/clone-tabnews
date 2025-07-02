@@ -1,3 +1,3 @@
 # clone-tabnews
 
-    exercício curso.dev
+Implementação do www.tabnews.com.br para o curso.dev
