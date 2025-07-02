@@ -1,3 +1,3 @@
 # clone-tabnews
 
-exercício curso.dev
+    exercício curso.dev
